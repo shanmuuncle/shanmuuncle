@@ -2,7 +2,7 @@
 - 👀 I’m interested in Meteorological Data Processing
 - 🌱 I’m currently learning the Data Processing Technology
 - 💞️ I’m looking to collaborate on the Extreme Weather Forecast
-- 📫 How to reach me? My email: leiqzh@wnu.edu.cn
+- 📫 How to reach me? My email: shmu@163.com
 
 <!---
 shanmuuncle/shanmuuncle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
