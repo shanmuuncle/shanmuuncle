@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanmuuncle
 - 👀 I’m interested in Meteorological Data Processing
-- 🌱 I’m currently learning the Data processing technology
+- 🌱 I’m currently learning the Data Processing Technology
 - 💞️ I’m looking to collaborate on the Extreme Weather Forecast
 - 📫 How to reach me? My email: leiqzh@wnu.edu.cn
 
